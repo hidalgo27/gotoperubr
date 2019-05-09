@@ -1,4 +1,2 @@
+# gotoperubr
 
-# new-goto
-
-# alfa
